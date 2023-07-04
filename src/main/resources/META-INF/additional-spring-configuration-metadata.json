@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "accessTokenExpirationMinutes",
+    "type": "java.lang.Integer",
+    "description": "A description for 'accessTokenExpirationMinutes'"
+  },
+  {
+    "name": "refreshTokenExpiration",
+    "type": "java.lang.Integer",
+    "description": "A description for 'refreshTokenExpiration'"
+  },
+  {
+    "name": "accessTokenSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'accessTokenSecret'"
+  },
+  {
+    "name": "refreshTokenSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'refreshTokenSecret'"
+  }
+]}
